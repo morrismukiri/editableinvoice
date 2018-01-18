@@ -6,3 +6,8 @@ An editable HTML invoice and quotation Template
 
 ## Demo
 http://morrismukiri.ml/editableinvoice/
+
+## How to use
+Edit the fields as needed
+
+Use the browser print feature
