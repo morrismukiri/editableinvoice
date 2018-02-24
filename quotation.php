@@ -21,10 +21,10 @@
 		
 		<div id="identity">
 		
-            <textarea id="address">Morris Mukiri
+            <textarea id="address">Crome Media
 P.O Box 548-00400, Nairobi
 Phone: +254716043576
-Email:  morrismukiri@gmail.com</textarea>
+Email: info@cromemedia.com</textarea>
 
             <div id="logo">
 
